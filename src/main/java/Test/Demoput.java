@@ -15,6 +15,9 @@ import java.util.*;
 
 import static Utils.HBaseUtils.show;
 
+/**
+ * haha
+ */
 
 public class Demoput {
     Table table =HBaseUtils.getTable();
